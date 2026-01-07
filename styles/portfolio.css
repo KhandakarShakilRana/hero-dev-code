@@ -145,3 +145,111 @@ nav .menu a{
     display: flex;
     justify-content: space-around;
 }
+
+#whatido{
+    max-width: 1140px;
+    margin: 0 auto;
+}
+.whatido-heading{
+    text-align: center;
+}
+
+.whatido-heading h2{
+    font-size: 35px;
+    color: #181818;
+    margin-top: 130px;
+    margin-bottom: 30px;
+}
+
+.whatido-heading p{
+    font-size: 18px;
+    color: #757575;
+    margin-bottom: 50px;
+}
+
+.skill-sets{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 130px;
+}
+
+.skills{
+    width: 200px;
+}
+
+.skills img{
+    margin-bottom: 38px;
+}
+
+.skills h2{
+    font-size: 20px;
+    margin-bottom: 20px;
+    color: #181818;
+}
+
+.skills p{
+    font-size: 16px;
+    color: #757575;
+}
+
+#resume{
+    max-width: 1140px;
+    margin: 0 auto;
+} 
+
+.resume-heading h2{
+    text-align: center;
+    color: #181818;
+    font-size: 35px;
+    font-weight: 700;
+    margin-bottom: 113px;    
+}
+
+.resume-info{
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.top-heading{
+    color: #757575;
+    font-size: 30px;
+    font-weight: 700;
+    margin-bottom: 30px;
+}
+
+.r-c-title{
+    color: #757575;
+    font-size: 25px;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+
+.r-c-info{
+    color: #757575;
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+.r-c-detail{
+    color: #757575;
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 30px;
+}
+
+hr{
+    margin-bottom: 2px;
+}
+
+#resume button{
+    width: 200px;
+    height: 64px;
+    border-radius: 5px;
+    background: #fd6e0a;
+    color: #ffffff;
+    font-size: 20px;
+    font-weight: 700;
+    display: block;
+    margin: 50px auto;
+}
